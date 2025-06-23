@@ -4,7 +4,7 @@ A Java Swing-based desktop application that enables users to create, customize, 
 
 -> Features
 
-1) Room Creation with Color Coding
+1)Room Creation with Color Coding
 Add rooms like Bedroom, Bathroom, Kitchen, etc., with distinct floor colors
 No room overlap — strict validation during placement
 
